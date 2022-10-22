@@ -1,0 +1,1 @@
+document.write(`<h2 class="time">${Date()}</h2>`);
